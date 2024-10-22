@@ -1,0 +1,8 @@
+To view all commit  :- git commit --all
+To view alll commit 
+        in one line :- git commit --all --oneline
+TO create a branch  :- git branch <branch name>
+TO switch a branch  :- git checkout <branch name>
+TO change the
+   branch name      :- git branch -M <branch name>
+TO push a new branch:- git push -u origin <branch name>
